@@ -5,7 +5,7 @@ Just my list of LeetCode accepted answer, my leetcode profile is same as my gith
 Global install [Hygen](https://www.hygen.io/) and then run
 
 ```
-hygen init new
+npx hygen init new
 ```
 
 to create a new file
